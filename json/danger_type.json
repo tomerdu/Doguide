@@ -1,0 +1,29 @@
+{
+    "dangers_types" : [
+        {
+            "type" : "Electric poll"
+        },
+        {
+            "type" : "Constructions Area"
+        },
+        {
+            "type" : "Down Hills"
+        },
+        {
+            "type" : "Object Blocks"
+        },
+        {
+            "type" : "Ground Holes"
+        },
+        {
+            "type" : "Broken Signpost"
+        },
+        {
+            "type" : "Stairs"
+        },
+        {
+            "type" : "Slope"
+        }
+
+    ]
+}
